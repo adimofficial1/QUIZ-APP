@@ -54,6 +54,7 @@ function App() {
           retakeQuiz={retakeQuiz}
         />
       )}
+      <QuizRules />
     </div>
   );
 }
