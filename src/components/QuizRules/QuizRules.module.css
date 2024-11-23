@@ -1,0 +1,27 @@
+  .modalContent {
+      border-radius: 12px;
+      background-color: white;
+  }
+
+  .modal-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+  }
+
+  .rule-section h6 {
+      font-weight: bold;
+      color: #333;
+  }
+
+  .rule-section ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: disc;
+      padding-left: 1.5rem;
+  }
+
+  .rule-section ul li {
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      color: #555;
+  }

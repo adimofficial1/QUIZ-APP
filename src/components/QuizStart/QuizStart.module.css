@@ -1,0 +1,26 @@
+.quizCard {
+    background-color: #fff;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .quiz-card h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .quiz-card .form-check-label {
+    font-size: 0.9rem;
+    color: #333;
+  }
+  
+  .quiz-card .btn {
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .text-danger {
+    color: #d63384 !important;
+  }
